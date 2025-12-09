@@ -41,6 +41,9 @@ DartZen provides a comprehensive, yet modular, stack tightly integrated with the
 * **Admin Panel:** Integrated Flutter Admin Panel for ready-to-use administrative functionalities.  
 * **Project Management:** Monorepo structure managed by Melos for streamlined development and package management.
 
+## **❤️ Maintained By**
+ВartZen is proudly maintained and supported by **jLogic Software.** We live by the principle of "Customer Zero": We are our own first customer. This means the code you use is battle-tested daily in jLogic's production systems, ensuring every feature is robust, reliable, and necessary for real-world projects.
+
 ## **⚖️ Licensing**
 
 The core components of DartZen are released under the **Apache License 2.0**. This permissive license allows you to use, modify, and distribute the code freely, even for commercial projects.
