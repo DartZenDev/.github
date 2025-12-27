@@ -1,10 +1,10 @@
-# **🚀 DartZen: The Simple, Balanced Core Starter Kit for Dart & Flutter**
+# **🚀 DartZen: The Simple, Balanced Core Foundation for Dart & Flutter**
 
 <img width="3200" height="420" alt="DartZen banner wide" src="https://github.com/user-attachments/assets/c3eacbaf-7316-4d5c-8999-0d8165dac514" />
 
 ## **🎯 Motivation: Why DartZen?**
 
-In the vast landscape of application development, choosing the right foundation is crucial. While available solutions offer comprehensive full-stack Dart, and minimalist templates provide barebones starts, we recognized a unique gap: the need for a **simple, balanced, and opinionated core starter kit** that embraces the full power of the **Google ecosystem**.
+In the vast landscape of application development, choosing the right foundation is crucial. While available solutions offer comprehensive full-stack Dart, and minimalist templates provide barebones starts, we recognized a unique gap: the need for a **simple, balanced, and opinionated core foundation** that embraces the full power of the **Google ecosystem**.
 
 DartZen was created to eliminate the common friction points in Dart & Flutter development. We bridge the gap between overly simplistic "hello world" projects and overly complex, bloated frameworks. Our motivation is to provide developers with a ready-to-use, optimized foundation that encourages best practices, streamlines integration with Google's powerful cloud services, and allows teams to focus on delivering value, not boilerplate.
 
@@ -12,16 +12,16 @@ If you're building with Dart & Flutter and value simplicity, seamless Google int
 
 ## **💡 Project Overview**
 
-**DartZen** is your go-to core starter kit for building high-quality, scalable, and maintainable applications with Dart and Flutter. It provides a robust, yet minimalist, architectural foundation that fosters a modular, package-based development approach. By design, DartZen offers deep, seamless integration with Google Cloud Platform (GCP) and Firebase, ensuring a cohesive and efficient development experience from frontend to backend. We've crafted this kit to accelerate your project's launch while providing the stability and simplicity needed for long-term success, allowing you to "Build with Zen."
+**DartZen** is your go-to core starter kit for building high-quality, scalable, and maintainable applications with Dart and Flutter. It provides a robust, yet minimalist, architectural foundation that fosters a clear, composable structure that scales without ceremony. By design, DartZen offers deep, seamless integration with Google Cloud Platform (GCP) and Firebase, ensuring a cohesive and efficient development experience from frontend to backend. We've crafted this kit to accelerate your project's launch while providing the stability and simplicity needed for long-term success, allowing you to "Build with Zen."
 
 ## **✨ Key Principles**
 
 Our strategic decisions and development philosophy are guided by these core principles, ensuring DartZen remains true to its "Zen" ethos:
 
-* **Zen Architecture:** We prioritize straightforward solutions, favoring clarity over cleverness. Our architecture is designed to be easily understood and maintained, minimizing cognitive load for developers.  
+* **Zen Architecture:** A calm, pragmatic approach focused on clarity and maintainability. Our architecture is designed to be easily understood and maintained, minimizing cognitive load for developers.  
 * **"See With Your Eyes":** There's **zero magic** in DartZen. All components and integrations are explicit, making the codebase predictable and easy to debug. You'll always know exactly how things work under the hood.  
 * **Minimal Cognitive Load:** We strive to reduce the mental overhead for developers. Our conventions and structures aim to make common tasks intuitive, allowing you to focus on your application's unique features.  
-* **Package-Based Development:** Structuring the project into isolated, reusable packages (via Melos). This ensures clear boundaries, better scalability, and independent testing of modules.
+* **Package-Based Development:** Structuring the project into well-defined packages with clear responsibilities (via Melos). This ensures clear boundaries, better scalability, and independent testing of modules.
 * **Google Ecosystem First:** Embracing a deep, native integration with Dart, Flutter, Google Cloud Platform (GCP), and Firebase services. This ensures a unified, optimized, and powerful stack.  
 * **Accelerated Development:** Providing a ready-to-use foundation that significantly reduces setup time, allowing developers to focus on unique business logic from day one.
 * **Universal Reach & Superior Experience:** We prioritize the best Developer Experience (DX) to help you deliver the best User Experience (UX). DartZen is rigorously developed and tested across **all platforms** (Android, iOS, Web, macOS, Windows, Linux). We support adaptive UI patterns (Material, Cupertino, or Flat) and optimized data transport (JSON or high-performance binary streams) to ensure your app feels native and performs flawlessly everywhere.
@@ -32,17 +32,17 @@ DartZen provides a comprehensive, yet modular, stack tightly integrated with the
 
 * **Core Technologies:** Dart, Flutter.  
 * **Backend:** Custom backend implemented with `shelf` for ultimate simplicity and control.  
-* **Authentication & Authorization:** Google Cloud Identity Platform (IDk) & Firebase Authentication.  
+* **Authentication & Authorization:** Google Cloud Identity Platform & Firebase Authentication.  
 * **Primary Database:** Google Cloud Firestore.  
 * **Caching:** Google Cloud Memorystore (Redis/Memcached).  
 * **File Storage:** Google Cloud Storage.  
 * **AI Services:** Google Cloud Vertex AI / Gemini API.  
 * **Analytics:** Google Analytics.  
-* **Admin Panel:** Integrated Flutter Admin Panel for ready-to-use administrative functionalities.  
+* **Admin Panel:** A built-in Flutter-based admin interface for operating real products.  
 * **Project Management:** Monorepo structure managed by Melos for streamlined development and package management.
 
 ## **❤️ Maintained By**
-ВartZen is proudly maintained and supported by **jLogic Software.** We live by the principle of "Customer Zero": We are our own first customer. This means the code you use is battle-tested daily in jLogic's production systems, ensuring every feature is robust, reliable, and necessary for real-world projects.
+DartZen is proudly maintained and supported by **jLogic Software.** We live by the principle of "Customer Zero": We are our own first customer. This means the code you use is battle-tested daily in jLogic's production systems, ensuring every feature is robust, reliable, and necessary for real-world projects.
 
 ## **⚖️ Licensing**
 
